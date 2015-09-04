@@ -1,5 +1,5 @@
 # todo-react
-Todo app built in React using ES6 and ES7
+Todo app built using React ( ES6 and ES7(proposed features))
 
 Demo - http://tangog.cybernieve.com/react-todo
 
