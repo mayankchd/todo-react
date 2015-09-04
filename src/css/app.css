@@ -1,0 +1,49 @@
+body {
+	font-family: "Roboto" !important;
+}
+
+.counter {
+	padding-top: 40px ;
+}
+input[type="text"] {
+	height: 50px;
+}
+li button {
+	padding: 0;
+	font-weight: bold;
+	color : #2e3336;
+	background: none;
+	border: none;
+	font-size: 20px;
+	float: right;
+	width: 20px;
+	height: 20px;
+	margin-top: 20px;
+	
+}
+
+
+.completed {
+	text-decoration: line-through;
+	color: #e3e3e3;
+}
+.bcompleted {
+	color: #00ff00;
+}
+button:focus, button:active {
+   outline: none !important;
+}
+label {
+	font-size: 24px;
+	font-weight: normal;
+	word-break: break-word;
+	max-width: 75%;
+}
+
+.edit {
+	padding: 0px;
+}
+
+li.editing  {
+	padding : 0px;
+}

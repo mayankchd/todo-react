@@ -1,0 +1,23 @@
+{
+  "name": "todo-react",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-babel": "^5.2.1"
+  },
+  "dependencies": {
+    "babelify": "^6.2.0",
+    "browser-sync": "^2.8.2",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "react": "^0.13.3",
+    "vinyl-source-stream": "^1.1.0",
+    "gulp-babel": "^5.2.1"
+  },
+  "description": ""
+}
