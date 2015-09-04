@@ -6,8 +6,6 @@ class TodoApp extends React.Component {
 
 	state = {
 		todos : [
-		{body : "Learn Laravel" , completed : false} ,
-		{body : "Learn React" , completed : true}
 		] ,
 		newTodo : '' ,
 	}
